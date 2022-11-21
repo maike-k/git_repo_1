@@ -10,3 +10,7 @@ h1 {
   justify-content: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.p.home {
+  font-size: 20px;
+}
