@@ -1,1 +1,2 @@
 Testado o comando git log
+Alterando arquivo na branch atual. 
